@@ -536,26 +536,7 @@ Los resultados obtenidos muestran que el procesamiento de lenguaje natural combi
 
 ---
 
-# 9. Ejecución del proyecto
 
-1. Abrir el archivo `Untitled0.ipynb` en Google Colab.
-2. Ejecutar la instalación de dependencias.
-3. Ejecutar las celdas en orden desde el inicio.
-4. Esperar la descarga de los modelos de Hugging Face cuando sea necesario.
-5. Revisar los resultados y análisis generados en cada sección.
-
-> **Nota:** algunos modelos pueden mostrar advertencias de configuración o compatibilidad durante la carga. En las ejecuciones registradas en el notebook, las tareas principales produjeron resultados.
-
----
-
-# 10. Estructura recomendada del repositorio
-
-```text
-procesamiento-texto-nlp/
-│
-├── README.md
-├── Untitled0.ipynb
-└── requirements.txt
 ```
 
 ---
