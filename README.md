@@ -537,9 +537,7 @@ Los resultados obtenidos muestran que el procesamiento de lenguaje natural combi
 ---
 
 
-```
 
----
 
 ## Autor
 
